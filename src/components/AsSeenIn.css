@@ -1,0 +1,28 @@
+.as-seen-in {
+    padding: 20px;
+    background-color: #fff;
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  .as-seen-in h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .magazine-list {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .magazine-list li {
+    margin: 10px 20px;
+    font-size: 1.2em;
+    color: #333;
+    font-family: 'Pacifico', cursive; 
+    font-weight: bold; 
+  }
+  
