@@ -1,4 +1,3 @@
-// src/components/Owner.js
 import React from 'react';
 
 const Owner = () => {

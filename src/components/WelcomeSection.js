@@ -1,4 +1,3 @@
-// src/components/WelcomeSection.js
 import React from 'react';
 import './WelcomeSection.css';
 

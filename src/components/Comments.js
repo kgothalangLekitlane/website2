@@ -1,4 +1,3 @@
-// src/components/Comments.js
 import React from 'react';
 
 const Comments = () => {
