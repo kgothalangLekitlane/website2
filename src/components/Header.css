@@ -1,0 +1,49 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #fff;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .header-left {
+    display: flex;
+    align-items: center;
+  }
+  
+  .social-media a {
+    margin: 0 5px;
+    color: #000;
+    font-size: 1.2em;
+  }
+  
+  .cart-button {
+    background: none;
+    border: none;
+    font-size: 1.5em;
+    cursor: pointer;
+    margin-left: 15px;
+  }
+  
+  .header-center {
+    text-align: center;
+    flex: 1;
+  }
+  
+  .site-title {
+    font-family: 'Cursive', sans-serif;
+    font-size: 2em;
+  }
+  
+  .nav {
+    margin-top: 10px;
+  }
+  
+  .nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #000;
+    font-size: 1em;
+  }
+  
